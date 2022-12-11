@@ -14,3 +14,4 @@ while True:
             print("Opps! Better luck next time")
     else:
         print("Guess a number between 1 and 6 only")
+#dicegame
